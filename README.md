@@ -15,8 +15,3 @@
 - и не только..
 
 <hr style="height:1px;border:none;background:#e5e7eb;margin:16px 0" />
-
-## LINK
-- Discord: **[Перейти](https://discord.gg/5SjT8phf9R)**  
-- VK: **[Перейти](https://vk.com/dwtweaker)**
-- Telegram: **[Перейти](https://t.me/dwtweaking)**
