@@ -2,7 +2,7 @@
 ![C# 7.3](https://img.shields.io/badge/C%23-7.3-239120?style=flat-square)
 
 ## Ссылки на скачивание
-- Прямая ссылка: **[Скачать](https://dwtweaker.ru/download/DWTweaker.exe)**
+Прямая ссылка: **[Скачать](https://dwtweaker.ru/download/DWTweaker.exe)**
 
 <hr style="height:1px;border:none;background:#e5e7eb;margin:16px 0" />
 
