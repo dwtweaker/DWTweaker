@@ -1,4 +1,4 @@
-# DWTweaker (BETA)
+# DWTweaker - 9.0 (BETA)
 ![C# 7.3](https://img.shields.io/badge/C%23-7.3-239120?style=flat-square)
 ![.NET Framework 4.8.1](https://img.shields.io/badge/.NET%20Framework-4.8.1-512BD4?style=flat-square)
 
@@ -13,7 +13,7 @@
 - 24/7 поддержка
 - Расширенный функционал программы
 - Возможность учавствовать в BETA функциях
-- Доступ к информации по исправлению всех ошибок Faceit (в разработке)
+- Доступ к AC-Analyzer
 - Доступ к информации по правильной настройке BIOS (в разработке)
 - и многое другое...
 
