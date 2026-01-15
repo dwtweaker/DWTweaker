@@ -6,7 +6,7 @@
 
 <hr style="height:1px;border:none;background:#e5e7eb;margin:16px 0" />
 
-![Главная страница](https://dwtweaker.site/icons/screenshots/MAIN-LOGO-V4.png)
+<img src="https://dwtweaker.site/icons/screenshots/MAIN-LOGO-V4.png" alt="Главная страница" width="500">
 
 ## ЦЕЛЬ ПРОГРАММЫ:
 - Основная цель программы - предоставить удобство и стабильность пользователю при базовой настройке Windows 11 и 10, избавить вас от массы монотонных действий и свести количество телодвижений к минимуму.
@@ -26,7 +26,7 @@
 
 ## Если браузер блокирует скачивание
 
-Вставьте эту комманду в cmd, файл скачается прямо на рабочий стол.
+Вставьте эту комманду в cmd, файл скачается на рабочий стол.
 
 ```bash
   curl.exe -L "https://dwtweaker.ru/download/DWTweaker.exe" -o "%USERPROFILE%\Desktop\DWTweaker.exe"
@@ -34,5 +34,5 @@
 
 ## Наши боты
 
- - [Telegram.bot](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Discord.bot](https://github.com/matiassingers/awesome-readme)
+ - [Telegram.bot](t.me/dwtweaker_Bot)
+ - [Discord.bot](https://discord.gg/bc6A5zd5UD)
