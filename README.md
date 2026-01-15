@@ -6,7 +6,7 @@
 
 <hr style="height:1px;border:none;background:#e5e7eb;margin:16px 0" />
 
-<img src="https://dwtweaker.site/icons/screenshots/MAIN-LOGO-V4.png" alt="Главная страница" width="500">
+<img src="https://dwtweaker.site/icons/screenshots/MAIN-LOGO-V4.png" alt="Главная страница" width="600">
 
 ## ЦЕЛЬ ПРОГРАММЫ:
 - Основная цель программы - предоставить удобство и стабильность пользователю при базовой настройке Windows 11 и 10, избавить вас от массы монотонных действий и свести количество телодвижений к минимуму.
