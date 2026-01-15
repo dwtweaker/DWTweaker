@@ -34,5 +34,5 @@
 
 ## Наши боты
 
- - [Telegram.bot](t.me/dwtweaker_Bot)
- - [Discord.bot](https://discord.gg/bc6A5zd5UD)
+- [Telegram.bot](https://t.me/dwtweaker_Bot)
+- [Discord.bot](https://discord.gg/bc6A5zd5UD)
