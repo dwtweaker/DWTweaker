@@ -1,4 +1,4 @@
-# DWTweaker - 9.1 (BETA)
+# DWTweaker - 9.0.2
 ![C# 7.3](https://img.shields.io/badge/C%23-7.3-239120?style=flat-square)
 ![.NET Framework 4.8](https://img.shields.io/badge/.NET%20Framework-4.8-512BD4?style=flat-square)
 
