@@ -1,4 +1,4 @@
-# DWTweaker - 9.0.2
+# DWTweaker - 9.3.0
 ![C# 7.3](https://img.shields.io/badge/C%23-7.3-239120?style=flat-square)
 ![.NET Framework 4.8](https://img.shields.io/badge/.NET%20Framework-4.8-512BD4?style=flat-square)
 
@@ -6,7 +6,7 @@
 
 <hr style="height:1px;border:none;background:#e5e7eb;margin:16px 0" />
 
-<img src="https://dwtweaker.site/icons/screenshots/MAIN-LOGO-V4.png" alt="Главная страница" width="600">
+<img src="https://dwtweaker.site/icons/screenshots/MAIN-LOGO-V5.png" alt="Главная страница" width="600">
 
 ## ЦЕЛЬ ПРОГРАММЫ:
 - Основная цель программы - предоставить удобство и стабильность пользователю при базовой настройке Windows 11 и 10, избавить вас от массы монотонных действий и свести количество телодвижений к минимуму.
