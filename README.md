@@ -32,7 +32,6 @@
   curl.exe -L "https://dwtweaker.ru/download/DWTweaker.exe" -o "%USERPROFILE%\Desktop\DWTweaker.exe"
 ```
 
-## Наши боты
+## Наш бот
 
-- [Telegram.bot](https://t.me/dwtweaker_Bot)
-- [Discord.bot](https://discord.gg/bc6A5zd5UD)
+- [@dwtweaker_Bot](https://t.me/dwtweaker_Bot)
