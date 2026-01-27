@@ -2,8 +2,8 @@
 ![C# 7.3](https://img.shields.io/badge/C%23-7.3-239120?style=flat-square)
 ![.NET Framework 4.8](https://img.shields.io/badge/.NET%20Framework-4.8-512BD4?style=flat-square)
 
-**[ПРЯМАЯ ССЫЛКА НА СКАЧИВАНИЕ](https://dwtweaker.ru/download/DWTweaker.exe)**
-**[ЗАПАСНАЯ ССЫЛКА НА СКАЧИВАНИЕ](https://github.com/dwtweaker/DWTweaker/releases/download/Latest/DWTweaker.exe)**
+- **[ПРЯМАЯ ССЫЛКА НА СКАЧИВАНИЕ](https://dwtweaker.ru/download/DWTweaker.exe)**
+- **[ЗАПАСНАЯ ССЫЛКА НА СКАЧИВАНИЕ](https://github.com/dwtweaker/DWTweaker/releases/download/Latest/DWTweaker.exe)**
 
 <hr style="height:1px;border:none;background:#e5e7eb;margin:16px 0" />
 
